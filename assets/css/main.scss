@@ -1,0 +1,41 @@
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+h1.display-3 {
+  font-size: 2.5rem;
+}
+
+h1.display-3 a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+#sidebar-left {
+  padding-left: 1.5rem;
+}
+
+#sidebar-left h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+blockquote {
+  background-color: rgb(238, 238, 238);
+  padding: 2rem;
+}
+
+.category-list a {
+  display: block;
+  background: #17a2b81a;
+  padding: .5rem 1rem;
+  color: rgb(34, 34, 34);
+  border-bottom: dashed #17a3b86c;
+}
+
+.category-list a:hover {
+  text-decoration: none;
+  background: #17a3b86c;
+  color: rgb(34, 34, 34);
+}
